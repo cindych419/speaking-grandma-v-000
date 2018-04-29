@@ -5,6 +5,8 @@ elsif phrase == phrase.upcase
     puts "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!."# Write a speak_to_grandma method.
+end
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
